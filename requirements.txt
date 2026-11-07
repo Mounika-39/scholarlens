@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas
+pypdf
+sentence-transformers
+chromadb
+rank-bm25
+google-genai
